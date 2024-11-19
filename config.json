@@ -1,0 +1,30 @@
+	{
+"logSettings":
+{
+    "configFilePath": "Layouts/SP24FireLayout.json",
+    "defaultSampleRateSec": 0.01,
+    "defaultSampleRateHz": 100
+},
+
+    "instrumentStyle":
+{
+    "minWidth":150,
+    "minHeight":75,
+    "padding":8,
+    "margin":32,
+    "valueFont":"Arial",
+    "labelFont":"Arial",
+    "valueSize":30,
+    "labelSize":15,
+    "labelColor":"#000000",
+    "valueColor":"#000000",
+    "backgroundColor":"#FFFFFF",
+    "activeColor": "#000000"
+},
+
+    "windowStyle":
+{
+    "padding":20,
+    "backgroundColor":"#FFFFFF"
+}
+}
